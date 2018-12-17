@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <histories>
+      <item value="see if there is a &quot;TYPE&quot; field. This is present for primitive wrappers." />
+      <item value="Do object check first, then primitives" />
+      <item value="value cannot be null here because isCompatibleType allows null" />
+      <item value="Don't call setter if the value object isn't the right type" />
+      <item value="ResultSet column to bean property name overrides" />
+      <item value="onstructor for beanprocessor configured with column to property name overrides." />
+      <item value="Constructor for BeanProcessor configured with column to property name overrides." />
+      <item value="Constructor for BeanProcessor." />
+      <item value="Use a ServiceLoader to find implementations" />
+      <item value="/** * Special array value used by &lt;code&gt;mapColumnsToProperties&lt;/code&gt; that * indicates there is no bean property that matches a column from a * &lt;code&gt;ResultSet&lt;/code&gt;. */" />
+    </histories>
+  </component>
+</application>

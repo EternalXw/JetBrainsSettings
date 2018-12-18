@@ -1,7 +1,5 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
       <item value="see if there is a &quot;TYPE&quot; field. This is present for primitive wrappers." />
       <item value="Do object check first, then primitives" />
@@ -14,5 +12,8 @@
       <item value="Use a ServiceLoader to find implementations" />
       <item value="/** * Special array value used by &lt;code&gt;mapColumnsToProperties&lt;/code&gt; that * indicates there is no bean property that matches a column from a * &lt;code&gt;ResultSet&lt;/code&gt;. */" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>

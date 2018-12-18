@@ -1,0 +1,5 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="visualVmExecutable" value="-server -Xms1g -Xmx2g -Xmn512m" />
+  </component>
+</application>
